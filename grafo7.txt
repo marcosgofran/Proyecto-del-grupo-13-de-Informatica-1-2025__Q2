@@ -1,0 +1,8 @@
+# NODES
+A 0 0
+B 3 4
+C 6 0
+
+# SEGMENTS
+S1 A B
+S2 B C

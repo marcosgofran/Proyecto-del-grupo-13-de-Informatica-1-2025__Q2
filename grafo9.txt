@@ -1,0 +1,23 @@
+# NODES
+A 0 0
+B 3 4
+C 6 0
+D 6 -4
+E 3 -8
+F 0 -4
+G 3 0
+H 3 -4
+
+# SEGMENTS
+S1 A B
+S2 B C
+S3 C D
+S4 D E
+S5 E F
+S6 F A
+S7 A G
+S8 C G
+S9 E H
+S10 G H
+S11 B G
+S12 D H
