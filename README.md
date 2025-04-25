@@ -1,4 +1,4 @@
 # Proyecto de INF1
-Version 1 generada por Marcos   
-Version 1 verificada por Jessica
+Version 2 generada por Marcos   
+Version 2 verificada por Jessica
  
