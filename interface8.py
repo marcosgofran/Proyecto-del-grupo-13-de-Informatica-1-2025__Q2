@@ -8,7 +8,7 @@ from path10 import PlotPath, FindShortestPath, ReachableNodes
 
 
 root = tk.Tk()
-root.title("Grafo Aéreo - Versión 1")
+root.title("Grafo Aéreo - Versión 2")
 root.geometry("1000x700")
 
 # Crear frames
